@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+:root {
+    --grad: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
+    --bitcoin-o: #F7931A;
+    --soft-o: #FFE9D5;
+    --second-blue: #1A9AF7;
+    --soft-b:  #E7F5FF;
+    --w-black: #201E1C;
+    --w1-black: #282623;
+    --gray: #BABABA;
+    --off-white: #FAF8F7;
+    --just-white: #FFFFFF;
+}
+
+
+body {
+    /**width: 35.5rem;**/
+    margin: auto; 
+    background-color: #BABABA;
+}
+
+.banner {
+    width: 100%;
+    height: 90em;
+    background-color: var(--grad);
+    margin: auto;
+}
+
+.logo {
+    width: 55em;
+    height: 30em;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+
+.bat {
+    width: 15em;
+    height: auto;
+    margin: auto;
+}
+
+h1 {
+    font-size: 7em;
+    color: var(--bitcoin-o);
+    margin: 1.5em 0em 0em 0.2em;
+}
+h2{
+    font-size: 7em;
+    margin: auto;
+    text-align: center;
+    padding: 0em 1.5em 0em 1.5em;
+    color: var(--off-white);
+}
+
+h3{
+    font-size: 4em;
+    margin: auto;
+    text-align: center;
+    padding: 1.5em;
+    color: var(--soft-o);
+}
+
+.graph {
+    width: 100%;
+    height: 120em;
+    background-color: var(--just-white);
+    padding: 5em;
+    text-align: center;
+}
+.gr{
+    width: 50em;
+    margin: auto;
+    margin-top: 10em;
+}
+.gr img{
+    width: 50em;
+}
+
+h4 {
+    font-size: 7em;
+    color: var(--w-black);
+    margin: 1em 0em 0em 0.2em;
+}
+h5 {
+    font-size: 4em;
+    color: var(--gray);
+    margin: 1em 1em 0em 1em;
+}
+
+.chart {
+    width: 100%;
+    height: 120em;
+    background-color: var(--just-white);
+    padding: 5em;
+    text-align: center;
+}
+
+footer{
+    width: 100%;
+    height: 50em;
+    background-color: var(--bitcoin-o);
+    padding: 3em;
+    display: flex;
+    flex-direction: row;
+}
+.info {
+    width: 40em;
+    height: 40em;
+    margin: auto;
+    padding: 5em 0em 0em 5em;
+    display: flex;
+    flex-direction: column;
+}
+.info p{
+    font-size: 5em;
+    color: var(--just-white);
+    margin: 0.5em 0em 0em 2em;
+}
+.info img{
+    width: 15em;
+    margin: 5.5em 0em 0.5em 4.5em;
+}
+span {
+    font-size: 2.5em;
+    color: var(--just-white);
+    margin: 1.5em 0em 0em 1em;
+}

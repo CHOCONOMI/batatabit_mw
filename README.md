@@ -3,7 +3,7 @@
 ![alex-kulikov-BrunIOLQMfQ-unsplash](https://user-images.githubusercontent.com/69003028/127045814-925a4245-d2f3-4b88-8b18-127ee9be309c.jpg)
 
 Me presento...
-Soy Natalie Noemí Zamora Santizo
+<br> Soy Natalie Noemí Zamora Santizo
 Estudio en Santa Catalina Labouré
 En Quinto Bachillerato en Ciencias y Letras con orienteación en Diseño Gráfico
 A cargo del Profesor Jossue Emmanuel Fuentes
